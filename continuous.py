@@ -1,5 +1,4 @@
 
-
 from gamspy import (
     Container,
     Set,
