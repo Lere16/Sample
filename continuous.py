@@ -136,7 +136,7 @@ def main():
         term2 = base
         term3 = k3 * (x - x3) + base
         
-        n=1
+        n=10
 
         return (term1 * sigmoid(x, x1, n) * sigmoid(x2, x, n)
                 + term2 * sigmoid(x, x2, n) * sigmoid(x3, x, n)
